@@ -6,7 +6,19 @@
         <meta name="keywords" content="CSE110">
         <meta name="author" content="Yunhao Du">
         <link rel="icon" type="image/jpg" href="https://cdn.glitch.com/4f2f146e-994d-4de8-838a-be649117a06f%2F%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210409115944.jpg?v=1617940864579" />
+        <link href="https://fonts.googleapis.com/css2?family=Antonio:wght@200&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="lab3_style.css">
+        <meta charset="UTF-8" />
     </head>
+    <style>
+        body { background-color: white;}
+        h1 {
+            font-size: 40px;
+            line-height: 50px;
+            margin-left: 40px;
+        }
+        /* This is a single-line comment */
+    </style>
     <body>
         <details>
             <summary>The author's Name</summary>
@@ -24,14 +36,14 @@
 
         <main>
             <header> 
-                <h1>This website is CSE110_lab2</h1>
+                <h style="background-color:rgb(255, 99, 71);">This website is CSE110_lab2</h1>
             </header>
     
             <section id="public1">
-            <h1>One for 2 days ago</h1>
+            <h1 style="color: #F67EC2;">One for 2 days ago</h1>
             </section>
-            <h2>4/7/2021</h2>
-            <i>Sunny</i>
+            <h2 style="background-color:hsl(9, 100%, 64%);">4/7/2021</h2>
+            <i style="color:Tomato;">Sunny</i>
             <br>
             <span>
                 What should I do this day?
@@ -75,11 +87,59 @@
                 <strong>What is the worest thing today?</strong>
                 <p>Nothing</p>
             </div>
+
+            <div class="container1">
+                <div class="vw">This is the test of the vw.</div>
+                <div class="ch">This is the test of the ch.</div>
+                <div class="box1">This is test the long margin, long padding and borders.</div>
+            </div>
+
+            <div class="container2">
+                <div class="box2">This is test the short margin, short padding.</div>
+            </div>
+            
+            <div class="container3">
+                <div class="box3">This is test the short margin, short padding.</div>
+            </div>
+            
+
+            <div class="flex_container1">
+                <div style="flex-grow: 1">1</div>
+                <div style="flex-grow: 4">2</div>
+                <div style="flex-grow: 8">3</div>
+            </div>
+            
+            <div class="flex_container2">
+                <div>1</div>
+                <div style="flex-shrink: 0">2</div>
+                <div>3</div>
+            </div>
+
+            <div class="grid_container1">
+                <div>1</div>
+                <div>2</div>
+                <div>3</div>
+                <div>4</div>
+                <div>5</div>
+            </div>
+
+            <dl>    
+                <div>
+                    <dt>Test Word1</dt>
+                    <dd>Test Word2</dd>
+                    <dd>Test Word3</dd>
+                    <dd>Test Word4</dd>
+                    <dd>Test Word5</dd>
+                </div>
+            </dl>
+            <input id="test" type="checkbox">
+            <div id="abc">
+
             <section id="public3">
-            <h1>One for today</h1>
+            <h1 class="text1">One for today</h1>
             </section>
-            <h2>4/9/2021</h2>
-            <i>rainy</i>
+            <h3 class="text2">4/9/2021</h3>
+            <i class="text3">rainy</i>
             <br>
             <span>
                 What should I do this day?
