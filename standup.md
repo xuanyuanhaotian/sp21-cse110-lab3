@@ -1,7 +1,9 @@
 
 # Yunhao Du
-**I am a cs major student at UCSD now.**
-
+**This is a standup template.**
+## Team Name：Slack Overload
+## Team member: 4
+## Member's Name: Yunhao Du, Peter, Andrew, Alice
 ## Goals
 ### Daily
 ```
@@ -30,30 +32,15 @@ Weekly Reflection
 
 ### Monthly
 ```
-Organize computer files
-```
-```
-Clean Github branch
-```
-```
 Monthly summary
 ```
+## Daily meeting time
+### 2.00pm-3.00pm
+
+## Weekly Summary meeting time
+### Friday 3.00pm-4.00pm
+
+## Play catch： Among us
+### Saturday 3.00pm-4.00pm
 
 
-**Goals**
-```
-c++
-```
-Bilibili is my favoriate [video website](https://www.bilibili.com/)
-
-This is my branch [add-read-me](README.md)
-
-Which countries have I traveled before?
-- Japan
-- America
-- Thailand
-
-Which is my favoriate pet?
-- [x] Dog
-- [ ] Cat
-- [ ] Lizard
