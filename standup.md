@@ -29,10 +29,15 @@ Review CSS
 ```
 Weekly Reflection 
 ```
-
+```
+Next week's assignment 
+```
 ### Monthly
 ```
 Monthly summary
+```
+```
+Next Month's Goal
 ```
 ## Daily meeting time
 ### 2.00pm-3.00pm
